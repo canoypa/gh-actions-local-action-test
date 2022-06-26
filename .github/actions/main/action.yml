@@ -1,4 +1,5 @@
 name: "main"
+description: ""
 runs:
   using: "node16"
   main: "index.js"
